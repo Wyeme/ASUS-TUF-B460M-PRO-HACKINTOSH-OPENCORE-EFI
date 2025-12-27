@@ -1,5 +1,5 @@
 # ASUS-TUF-B460M-PRO-HACKINTOSH-OPENCORE-EFI
-opencore efi
+OpenCore-version6.5
 # 硬件参数
 | 组件 | 型号与规格 |
 | :--- | :--- |
